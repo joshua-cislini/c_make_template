@@ -175,18 +175,6 @@ The formatting rules are stored in:
 
 This file is located in the **root of the project** so that the same formatting rules can be used throughout the entire project.
 
-For example:
-
-```text
-MyProject/
-├── .clang-format
-├── src/
-│   ├── main.c
-│   └── test.c
-└── include/
-    └── test.h
-```
-
 Clang-Format automatically searches for a `.clang-format` file in the directory of the source file and its parent directories. Therefore, the root `.clang-format` can define the formatting rules for the entire project.
 
 ## VS Code formatting
