@@ -1,4 +1,4 @@
-# C Multi-File Project
+# C Multi-File Project Template
 
 A simple C project using **GCC**, **MinGW**, **Make**, **GDB**, and **Clang-Format**, designed for development in **Visual Studio Code**.
 
