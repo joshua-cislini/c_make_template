@@ -1,0 +1,27 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+
+    "C_Cpp.default.cStandard": "c99",
+
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/src"
+    ],
+
+    "makefile.makePath": "mingw32-make",
+
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+
+    "explorer.confirmDelete": false,
+
+    "files.associations": {
+        "*.h": "c"
+    }
+}
