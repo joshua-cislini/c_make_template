@@ -1,6 +1,5 @@
 {
     "version": "2.0.0",
-
     "tasks": [
         {
             "label": "Build",
@@ -18,7 +17,6 @@
                 "$gcc"
             ]
         },
-
         {
             "label": "Clean",
             "type": "shell",
@@ -31,7 +29,6 @@
             },
             "problemMatcher": []
         },
-
         {
             "label": "Rebuild",
             "dependsOrder": "sequence",
@@ -41,7 +38,6 @@
             ],
             "problemMatcher": []
         },
-
         {
             "label": "Run",
             "type": "shell",
